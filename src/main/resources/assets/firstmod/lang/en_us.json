@@ -1,0 +1,10 @@
+{
+  "item.firstmod.heart": "Heart",
+  "item.firstmod.heart_crystal_shard": "Heart Crystal Shard",
+  "item.firstmod.heart_crystal": "Heart Crystal",
+
+  "block.firstmod.heart_crystal_ore": "Heart Crystal Ore",
+  "block.firstmod.netherrack_heart_crystal_ore": "Netherrack Heart Crystal Ore",
+
+  "itemGroup.firstmod.heart_items": "Heart Items"
+}
